@@ -2,6 +2,8 @@
 
 > 谷歌 DeepMind 的世界模型 Project Genie（Genie 3）：输入一句话或一张图，就能生成一个**可交互、可游玩**的虚拟世界——自己当主角在里面跑图。本教程讲清楚国内用户从「听说过」到「玩上」的完整路径：账号、订阅、网络环境，一步到位。
 
+🤖 **想让你的 AI 帮你一步步操作？** 把本仓库链接（或 [README 原文](https://raw.githubusercontent.com/wuwenxux/project-genie-guide/main/README.md)）直接发给你的 AI 即可——仓库含 `llms.txt` 与 `AGENTS.md`，ChatGPT / Claude / Kimi 等都能直接读懂并照做。
+
 ## Project Genie 是什么
 
 - 2026 年 1 月底谷歌 DeepMind 发布的实验性产品，底层是 Genie 3 通用世界模型，配合 Nano Banana Pro（图像）与 Gemini（语言理解）
